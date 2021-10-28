@@ -1,0 +1,6 @@
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+"item1										",Yellow Flowers,image/jpg,Flower1.jpg,2020-09-05,Flower;Yellow;Multiple,Niagara Falls,43.135705,-79.05643996,Image of several yellow flowers
+"item2										",Marigold,image/jpg,Flower2.jpg,2020-09-05,Flower;Yellow;Multiple,Niagara Falls,43.135705,-79.05643996,Image of several yellow marigolds
+item3,Trumpet Flower,image/jpg,Flower3.jpg,2020-09-05,Flower;Orange;Single,Niagara Falls,43.135705,-79.05643996,Image of a lone orange flower
+item4,Sunset Flower,image/jpg,Flower4.jpg,2020-09-05,Flower;Gradient;Single;Peach,Niagara Falls,43.135705,-79.05643996,Image of a lone multicoloured flower in pink to yellow
+item5,Rose,image/jpg,Flower5.jpg,2020-09-05,Flower;Purple;Single,Niagara Falls,43.135705,-79.05643996,Image of a lone purple rose
